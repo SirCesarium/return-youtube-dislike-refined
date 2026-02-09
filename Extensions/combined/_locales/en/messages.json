@@ -1,30 +1,12 @@
 {
   "extensionName": {
-    "message": "Return YouTube Dislike"
-  },
-  "extensionNameBeta": {
-    "message": "Return YouTube Dislike Beta"
+    "message": "Return YouTube Dislike Refined"
   },
   "extensionDesc": {
     "message": "Returns ability to see dislikes"
   },
   "textDeveloper": {
-    "message": "by Dmitry Selivanov & Community"
-  },
-  "linkWebsite": {
-    "message": "Website"
-  },
-  "linkFAQ": {
-    "message": "FAQ"
-  },
-  "linkDonate": {
-    "message": "Donate"
-  },
-  "linkHelp": {
-    "message": "Help"
-  },
-  "linkChangelog": {
-    "message": "Change Log"
+    "message": "by The Community"
   },
   "legendSettings": {
     "message": "Settings"
@@ -80,15 +62,6 @@
   "textTempUnavailable": {
     "message": "Temporarily Unavailable"
   },
-  "textUpdate": {
-    "message": "Update to"
-  },
-  "version30installed": {
-    "message": "Version __RYD_VERSION__ installed"
-  },
-  "whatsnew": {
-    "message": "What's new"
-  },
   "shortsSupport": {
     "message": "YouTube Shorts Support"
   },
@@ -97,9 +70,6 @@
   },
   "customNumberFormats": {
     "message": "Custom number formats"
-  },
-  "considerDonating": {
-    "message": "The only thing that keeps the extension running is your donations, please consider supporting the project."
   },
   "roundNumbers": {
     "message": "Show rounded down numbers"

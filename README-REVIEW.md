@@ -1,5 +1,3 @@
-Return Youtube Dislike Refined
-
 # Build Instructions
 
 1. Install Node.js and npm.
